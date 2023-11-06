@@ -1,4 +1,4 @@
 Notes for scraper:
-- Clicking on the 'readme' is a little finicky due to website's scripting, still trying to figure out how to fix it
+- Clicking on the 'read me' in artwork descriptions is a little finicky due to website's scripting, still trying to figure out how to fix it
 - Since it is an auction site, the descriptions of art can be quite varied , sometimes it is just a description of the condition of painting, or of the artist, or a description simply isn't there
 - Scraping bugs (such as randomly scraping the same artwork multiple times, or reaching recurrent exception and skipping to next batch) cause the scraper to only be able to retrieve data from around 1600 of the 3000 images
