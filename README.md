@@ -3,7 +3,7 @@ Scraper for artsy.net
 
 # **PLEASE NOTE**
 - This is to be used for EDUCATIONAL and DEMONSTRATION purposes only.
-- Keep in mind this website are providing this data to free for users without a sign in out of the goodness of their heart. Don't abuse it!
+- Keep in mind this website are providing this data to free for users without a sign-in, out of the goodness of their heart. Don't abuse it!
 
 This is simply a data scraper code for scraping from artsy.net, to be used to understand art description data in my research team. 
 
